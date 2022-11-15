@@ -356,7 +356,7 @@ span {
     overflow: hidden;
     background-size: cover;
     background-position: center;
-    background-image: url("../media/oldman.png");
+    background-image: url("media/oldman.png");
     transition: 0.2s;
 
 /*IF YOU WANT TO USE A COLOR INSTAEAD OF IMAGE*/
@@ -370,7 +370,7 @@ span {
     border-radius: 50%;
     top: 10px;
     left: 75px;
-    background-image: url("../media/oldman.png");
+    background-image: url("media/oldman.png");
 
 /*    transform: translateX(70%);*/
 /*    background: transparent;*/
@@ -385,7 +385,7 @@ span {
   left: 75px;
 /*    transform: translateX(70%);*/
 /*    background: transparent;*/
-  background-image: url("../media/oldman.png");
+  background-image: url("media/oldman.png");
   border: 2px solid #202020;
 }
 
@@ -394,7 +394,7 @@ span {
   overflow: hidden;
   background-size: cover;
   background-position: center;
-  background-image: url("../media/1.png");
+  background-image: url("media/1.png");
   transition: 0.2s;
 
 /*IF YOU WANT TO USE A COLOR INSTAEAD OF IMAGE*/
@@ -408,7 +408,7 @@ span {
   border-radius: 50%;
   top: 10px;
   left: 75px;
-  background-image: url("../media/1.png");
+  background-image: url("media/1.png");
 
 /*    transform: translateX(70%);*/
 /*    background: transparent;*/
@@ -423,7 +423,7 @@ top: 10px;
 left: 75px;
 /*    transform: translateX(70%);*/
 /*    background: transparent;*/
-background-image: url("../media/1.png");
+background-image: url("media/1.png");
 border: 2px solid #202020;
 }
 
@@ -432,7 +432,7 @@ border: 2px solid #202020;
   overflow: hidden;
   background-size: cover;
   background-position: center;
-  background-image: url("../media/2.jpg");
+  background-image: url("media/2.jpg");
   transition: 0.2s;
 
 /*IF YOU WANT TO USE A COLOR INSTAEAD OF IMAGE*/
@@ -446,7 +446,7 @@ border: 2px solid #202020;
   border-radius: 50%;
   top: 10px;
   left: 75px;
-  background-image: url("../media/2.jpg");
+  background-image: url("media/2.jpg");
 
 /*    transform: translateX(70%);*/
 /*    background: transparent;*/
@@ -461,7 +461,7 @@ top: 10px;
 left: 75px;
 /*    transform: translateX(70%);*/
 /*    background: transparent;*/
-background-image: url("../media/2.jpg");
+background-image: url("media/2.jpg");
 border: 2px solid #202020;
 }
 
